@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WilliamYWY
 - 👀 I’m interested in aliving my idea with code
-- 🌱 I’m currently learning Python, Swift
+- 🌱 I’m currently learning Python, Swift, Solidity
 
 <!---
 WilliamYWY/WilliamYWY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
